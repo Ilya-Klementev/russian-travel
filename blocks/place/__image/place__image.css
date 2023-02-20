@@ -10,13 +10,6 @@
     max-width: 440px;
   }
 }
- /*
-@media screen and (max-width: 716px) {
-  .place__image {
-    min-width: 300px;
-  }
-}*/
-
 
 @media screen and (max-width: 640px) {
   .place__image {
