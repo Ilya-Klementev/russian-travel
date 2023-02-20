@@ -24,7 +24,7 @@
 - grid
 
 ## Ссылка на проект:
-https://github.com/Ilya-Klementev/russian-travel.git
+https://ilya-klementev.github.io/russian-travel/
 
 
 ## Планы по доработке
