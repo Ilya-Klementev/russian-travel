@@ -23,6 +23,10 @@
 - flex
 - grid
 
+## Ссылка на проект:
+https://github.com/Ilya-Klementev/russian-travel.git
+
+
 ## Планы по доработке
 
 Найти и добавить еще больше полезной информации
